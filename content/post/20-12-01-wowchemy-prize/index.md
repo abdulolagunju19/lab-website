@@ -1,9 +1,8 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: Jane Doe Wins First Place in the 2021 Diabetes Conference
 date: 2020-12-01
 ---
-
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Congratulations to Richard Hendricks for winning first place in the 2021 Diabetes Conference!
 
 <!--more-->
 
