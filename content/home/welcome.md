@@ -12,4 +12,8 @@ design:
 ---
 <br>
 
-The research of the Yue laboratory focuses on *delineating brain mechanisms which coordinate whole-body metabolism*. More specifically, research is conducted to *characterize stress-related hormone signalling pathways in the brain and the neurocircuitry that drive the regulation of hepatic fuel production, namely glucose and lipids, of feeding behaviour, and of body weight gain*.
+The research of the Yue laboratory focuses on *delineating brain mechanisms which coordinate whole-body metabolism*. 
+
+More specifically, research is conducted to *characterize stress-related hormone signalling pathways in the brain and the neurocircuitry that drive the regulation of hepatic fuel production, namely glucose and lipids, of feeding behaviour, and of body weight gain*.
+
+<br>
