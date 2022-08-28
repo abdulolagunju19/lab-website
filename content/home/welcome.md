@@ -1,23 +1,15 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget: hero # See https://wowchemy.com/docs/page-builder/
-headless: true # This file represents a page section.
-weight: 10 # Order that this section will appear.
-title: |
-  Wowchemy  
-  Research Group
+widget: hero
+widget_id: Yue Physiology Lab
+headless: true
+weight: 10
+title: Yue Physiology Lab
 hero_media: welcome.jpg
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
+  columns: "1"
+  css_style: null
+  css_class: null
 ---
-
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The research of the Yue laboratory focuses on *delineating brain mechanisms which coordinate whole-body metabolism*. More specifically, research is conducted to *characterize stress-related hormone signalling pathways in the brain and the neurocircuitry that drive the regulation of hepatic fuel production, namely glucose and lipids, of feeding behaviour, and of body weight gain*. The Yue laboratory encompasses methods in physiology, pharmacology, molecular biology, biochemistry, and genetics. *In vivo* experimental techniques include glucose clamp experiments with tracer dilution methodology to quantify whole-body glucose turnover, hepatic lipoprotein secretion experiments to study lipid metabolism, and energy monitoring systems to investigate feeding and locomotor behaviours in response to brain treatment interventions.
