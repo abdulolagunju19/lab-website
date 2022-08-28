@@ -10,7 +10,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: https://www.ualberta.ca/medicine/media-library/news/2016/april/jessica-yueyoung-investigator-award.jpg
+    image: ""
 ---
 <br>
 
